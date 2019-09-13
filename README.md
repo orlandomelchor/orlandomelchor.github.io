@@ -1,2 +1,2 @@
 # mlchrln2.github.io
-My personal website in development
+The template for my personal website currently still in development.
